@@ -1,6 +1,8 @@
 #
 # Learn more about this Gitpod configuration file in the documentation at https://www.gitpod.io/docs/configuration
 #
+image: gitpod/workspace-postgres
+
 ports:
   - port: 3000
     onOpen: open-browser
@@ -8,7 +10,6 @@ ports:
     onOpen: ignore
   - port: 5555
     onOpen: open-browser
-
 
 vscode:
   extensions:
