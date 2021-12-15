@@ -25,7 +25,6 @@ tasks:
     env:
       DATABASE_URL: postgres://gitpod@localhost/todos
   - command: |
-      npx prisma migrate dev
       npx prisma studio
     env:
       DATABASE_URL: postgres://gitpod@localhost/todos
