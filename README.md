@@ -1,4 +1,6 @@
-# create-svelte
+# sveltekit-prisma starter
+
+ [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/nicolasmendonca/sveltekit-prisma/tree/main)
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
 
